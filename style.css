@@ -92,7 +92,7 @@ h1 {
 .popup {
 	position: absolute;
 	display: flex;
-	top: 150px;
+	top: -300px;
 	left: 50%;
 	width: 600px;
 	height: 200px;
